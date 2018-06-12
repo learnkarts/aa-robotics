@@ -1,1 +1,1 @@
-ckage com.edureka.robotics; public class RoboFunctionImpl implements RoboFunction{ @Override public void moveF() { System.out.println("Moving Forward"); } @Override public void moveB() { // TODO Auto-generated method stub } }
+package com.edureka.robotics; public class RoboFunctionImpl implements RoboFunction{ @Override public void moveF() { System.out.println("Moving Forward"); } @Override public void moveB() { System.out.println("Moving Backward"); } }
